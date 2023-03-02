@@ -1,0 +1,24 @@
+body{
+    background-color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    color:black;
+}
+
+th{
+    background-color: rgb(97, 149, 196);
+}
+table{
+    margin-left: 250px;
+}
+img{
+    margin: 5px 5px 5px 5px;
+}
+title1{          
+    font-family: 'Abraham Lincoln', sans-serif;
+     font-size: 100px;  
+     color:rgb(29, 135, 143);    
+     text-align: center;                                    
+}
